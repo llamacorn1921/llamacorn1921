@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Name's llama.\
+### Name's llama.\
 -🔭 I’m currently working on a custom shell made in c#
 
 
