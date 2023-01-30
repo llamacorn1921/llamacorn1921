@@ -24,7 +24,7 @@ namespace Llamacorn1921
     {
         public static void Hello()
         {
-            Console.Writeline("Hello!);
+            Console.Writeline("Hello!");
         }
     }
 }
