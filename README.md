@@ -17,7 +17,18 @@ Here are some ideas to get you started:
 Name's llama.
 I'm currently working on a custom shell made in c#
 
-
+```c#
+namespace Llamacorn1921
+{
+    public static class README
+    {
+        public static void Hello()
+        {
+            Console.Writeline("Hello!);
+        }
+    }
+}
+```
 
 ![GH stats](https://github-readme-stats.vercel.app/api?username=llamacorn1921&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llamacorn1921)](https://github.com/anuraghazra/github-readme-stats)
